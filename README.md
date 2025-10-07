@@ -42,7 +42,7 @@ My work bridges **real-time control software**, **ROS/ROS 2**, **ROS-LLM integra
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=stex2005&theme=tokyonight&mode=weekly" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=stex2005&mode=weekly" alt="GitHub Streak"/>
 </p>
 
 ---
