@@ -28,6 +28,9 @@ My work bridges **real-time control software**, **ROS/ROS 2**, **ROS-LLM integra
 - ⚙️ **[Real-Time C++ Suite](https://github.com/stex2005/realtime_ipc_exercises)**  
   A hands-on collection of **real-time C++ exercises and examples**, demonstrating deterministic memory management, inter-process communication, thread synchronization, and ROS-compatible timing strategies for robotics applications.  
 
+- 🌐 **[C++ UDP Communication Suite](https://github.com/stex2005/udp_communication)**  
+  Lightweight **UDP networking module** for high-frequency, low-latency data exchange between processes or devices — designed for deterministic performance in **real-time robotic control** environments.  
+
 - 🎮 **[Unity-HTC](https://github.com/stex2005/Unity-HTC)**  
   A **Unity-based framework** for integrating HTC Vive trackers and hand tracking with robotic systems, designed for **teleoperation, visualization, and VR-based human–robot interaction** experiments.  
 
