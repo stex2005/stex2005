@@ -22,7 +22,7 @@ My work bridges **real-time control software**, **ROS/ROS 2**, **ROS-LLM integra
 - 🦾 **[ROS-MCP Server](https://github.com/robotmcp/ros-mcp-server)**  
   A framework that connects LLMs (GPT, Claude, Gemini) with ROS/ROS 2 robots via the **Model Context Protocol (MCP)** — enabling natural-language control, introspection, and real-time interaction with robotic systems.  
 
-- 🤖 **[ROS-MCP Client](https://github.com/stex2005/ros-mcp-client)**  
+- 🤖 **[ROBOT-MCP Client](https://github.com/robotmcp/robot-mcp-client)**  
   A reference **MCP client** implementation that acts as an LLM interface for on-premise or custom model integrations, allowing developers to run local or remote agents that communicate directly with ROS/ROS 2 environments.  
 
 - ⚙️ **[Real-Time C++ Suite](https://github.com/stex2005/realtime_ipc_exercises)**  
