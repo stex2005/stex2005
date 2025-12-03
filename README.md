@@ -9,10 +9,10 @@ My work bridges **real-time control software**, **ROS/ROS 2**, **ROS-LLM integra
 ## 🔧 Technologies & Tools  
 
 **Languages:** C · C++ · Python · C# · Unity  
-**Frameworks & Libraries:** ROS / ROS2 · Eigen · Qt · Unity · OpenCV · FastMCP 
+**Frameworks & Libraries:** ROS / ROS2 · Eigen · Qt · Unity · OpenCV · FastMCP  
 **Control & Simulation:** Real-time Linux (PREEMPT-RT) · EtherCAT · Gazebo · RViz · MATLAB / Simulink  
 **Networking & Comms:** CAN · UDP · MQTT · WebSocket · ROS Bridge  
-**Tools & Platforms:** Git · CMake · Docker · WSL · PyPI · MCP Registry · GitHub Actions · CI/CD
+**Tools & Platforms:** Git · CMake · Docker · WSL · PyPI · MCP Registry · GitHub Actions · CI/CD  
 **Core Expertise:** Real-time Control · Human–Robot Interaction · Haptic Feedback · Shared Control · System Integration  
 
 ---
