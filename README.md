@@ -20,7 +20,10 @@ My work bridges **real-time control software**, **ROS/ROS 2**, **ROS-LLM integra
 ## 🚀 Selected Projects  
 
 - 🦾 **[ROS-MCP Server](https://github.com/robotmcp/ros-mcp-server)**  
-  A framework that connects LLMs (GPT, Claude, Gemini) with ROS/ROS 2 robots via the **Model Context Protocol (MCP)** — enabling natural-language control, introspection, and real-time interaction with robotic systems.  
+  A framework that connects LLMs (GPT, Claude, Gemini) with ROS/ROS 2 robots via the **Model Context Protocol (MCP)** to enable natural-language control, introspection, and real-time interaction with robotic systems.  
+
+- 🦾 **[Vision-MCP Server](https://github.com/robotmcp/vision-mcp-server)**  
+  A framework that bridges LLMs (GPT, Claude, Gemini) with OpenAI Vision via the **Model Context Protocol (MCP)** to enable analysis of images, videos, and live streams, with a particular focus on real-time video summarization.
 
 - 🤖 **[ROBOT-MCP Client](https://github.com/robotmcp/robot-mcp-client)**  
   A reference **MCP client** implementation that acts as an LLM interface for on-premise or custom model integrations, allowing developers to run local or remote agents that communicate directly with ROS/ROS 2 environments.
